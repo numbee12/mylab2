@@ -1,16 +1,11 @@
 Apples
-<<<<<<< HEAD
 Lemon
 oranges
 Bananas
 Corn
-Cat Food
-=======
-Bananas
-Corn
-more Dog Food
->>>>>>> b4f30fe88b6f9b4d83d0ed36f49722c59f9c5861
+more cat and Dog Food
 Cereal
 Bread
 Milk
 Eggs
+low fat milk
